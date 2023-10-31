@@ -1,5 +1,5 @@
 # Data-Analysis-and-Time-Series-Modeling-in-R
-# Comparative Analysis of Financial Sources
+# Analysis of Financial Sources
 ## Project Overview
 
 This project involves a analysis of the sources of financing for the Moroccan economy. The analysis consists of two main parts:
